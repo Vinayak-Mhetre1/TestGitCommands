@@ -9,4 +9,9 @@ Test8 from other user
 Test9
 test10
 test11
+<<<<<<< HEAD
 test12
+=======
+test12
+test13
+>>>>>>> origin/Integration
